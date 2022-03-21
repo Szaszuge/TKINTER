@@ -1,7 +1,7 @@
 from tkinter import*
 
 ablak1 = Tk()
-gyoker = 'C:\\Users\\otott-kovacsmate\\Desktop\\i9öüuui\\tkinter.py'
+gyoker = "D:\\IKT\\TKINTER\\"
 ablak1.title = ("tk")
 icon = PhotoImage(file = gyoker + 'png.png')
 ablak1.iconphoto(True, icon)
