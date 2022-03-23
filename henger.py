@@ -5,8 +5,14 @@ def szamitas ():
     r = int(sugarbe.get())
     m = int(magassagbe.get())
     terfogat = math.pi * r * r * m
+    vashenger = ("asd")
+    fahenger = ("asd")
     terfogatki.delete (0, END)
     terfogatki.insert (0, str(terfogat)+' cm3' )
+    vashengerki.delete (0, END)
+    vashengerki.insert (0, str(vashenger)+' g' )
+    fahengerki.delete (0, END)
+    fahengerki.insert (0, str(fahenger)+' g' )
 
 foablak = Tk()
 gyoker = 'D:\\IKT\\TKINTER\\'
