@@ -5,7 +5,7 @@ foablak = Tk()
 gyoker = 'D:\\IKT\\tkinter\\'
 
 
-icon = PhotoImage(file= gyoker + 'png.png')
+icon = PhotoImage(file= gyoker + 'henger.png')
 foablak.iconphoto(True, icon)
 
 
